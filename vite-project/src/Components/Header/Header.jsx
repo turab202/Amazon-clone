@@ -1,5 +1,6 @@
 import React from 'react';
 import classes from './Header.module.css'
+import {Link} from 'react-router-dom'
 import {SlLocationPin} from "react-icons/sl";
 import {BsSearch} from "react-icons/bs";
 import {BiCart} from "react-icons/bi";
@@ -17,7 +18,7 @@ function Header() {
             
             < div className={classes.delivery}>
             <span>
-              {SlLocationPin}
+              <SlLocationPin/>
             </span>
             
             <div>
@@ -32,7 +33,7 @@ function Header() {
                 <option value="">All</option>
              </select>
             <input type="text"/>
-             <BsSearch size ={25}/>
+             <BsSearch size ={39}/>
         </div>
          {/*right side link*/}
         < div className={classes.order__container}>
@@ -42,15 +43,15 @@ function Header() {
                     <option value="">Am</option>
                 </select>
                 </a>
-            <a href="">
+            <a href="/signUp">
                 <p>sign in</p>
                 <span>Account $ lists</span>
             </a>
-            <a href="">
+            <a href="/orders">
                 <p>returns</p>
                 <span>&Orders</span>
             </a>
-            <a  href='' className={classes.cart}>
+            <a  href='/cart' className={classes.cart}>
                 <BiCart size ={35}/>
                 <span>0</span>
             </a>
