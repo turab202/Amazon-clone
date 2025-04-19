@@ -1,0 +1,14 @@
+.product_grid {
+    display: grid; /* Change this to grid */
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* Automatically adjust the columns */
+    padding: 2rem;
+    background-color: #f9fafb;
+  }
+  
+  .no_products {
+    font-size: 1.25rem;
+    color: #6b7280;
+    text-align: center;
+  }
+  
