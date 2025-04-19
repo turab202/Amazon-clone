@@ -19,4 +19,4 @@ An Amazon-style e-commerce website built with React, Vite, and integrated with a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/turab202/Amazon-clone.githu.com
+   git clone https://github.com/turab202/Amazon-clone.github.com
