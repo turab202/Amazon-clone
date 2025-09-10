@@ -50,6 +50,7 @@ This E-Commerce platform is a **full-stack Amazon-inspired application** where u
 
 ## 📸 Screenshots
 
+<img width="1363" height="682" alt="image1" src="https://github.com/user-attachments/assets/a510cda4-5dad-47bb-8e6e-66d808a8d8cf" />
 
 ## ⚙️ Installation & Setup
 Clone the repository:  
