@@ -54,7 +54,7 @@ This E-Commerce platform is a **full-stack Amazon-inspired application** where u
 
 ## ⚙️ Installation & Setup
 Clone the repository:  
-git clone https://github.com/turab202/ecommerce.git  
+git clone https://github.com/turab202/Amazon-clone.git  
 cd ecommerce  
 
 Install frontend dependencies:  
