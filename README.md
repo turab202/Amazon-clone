@@ -49,7 +49,7 @@ This E-Commerce platform is a **full-stack Amazon-inspired application** where u
 | Image Uploads | Cloudinary |
 
 ## 📸 Screenshots
-> _Add GIFs or images showing homepage, product page, cart, checkout, and admin dashboard_
+
 
 ## ⚙️ Installation & Setup
 Clone the repository:  
